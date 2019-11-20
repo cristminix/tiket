@@ -1,0 +1,21 @@
+{
+  "name": "web-installer",
+  "version": "1.0.0",
+  "description": "Loket web-installer",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/cristminix/loket-web-installer",
+  "keywords": [
+    "Loket",
+    "SIAP",
+    "antrian",
+    "installer"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^7.1.1"
+  }
+}
